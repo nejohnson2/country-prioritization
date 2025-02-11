@@ -1,4 +1,3 @@
-from functions import *
 import time
 import datetime
 
